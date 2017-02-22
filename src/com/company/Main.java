@@ -22,7 +22,7 @@ public class Main {
         String email1 = firstUser.getEmail();
         int age1 = firstUser.getAge();
 
-        //second user
+        //second user//
         Person secondUser = new Person();
         //secondUser.getDepartment("HR");
         secondUser.setUserName("sgabriel");
